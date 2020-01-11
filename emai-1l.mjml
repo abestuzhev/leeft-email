@@ -17,24 +17,24 @@
       </mj-column>
     </mj-section>
     
-    <mj-section>
+    <mj-section padding="0">
       <mj-column>
-        <mj-text color="#29373c" align="right" font-size="16px" font-family="arial" text-transform="uppercase" font-weight="700">Разрабtотка сайтов.</mj-text>
-        <mj-text font-size="15px" align="right" color="#29373c" font-family="arial" line-height="19px">
+        <mj-text font-size="15px" padding="10px 15px" align="right" color="#29373c" font-family="arial" line-height="19px">
+          <span style="font-size:16px; text-transform:uppercase; font-weight:700;">Разрабtотка сайтов.<br></span>
         Мы разрабатываем сайты как на готовых решениях, так и с индивидуальным дизайном. От сайта-визитки до полноценного Интернет магазина. Разработка сайтов от 60 000 руб.
         </mj-text>
-        <mj-button align="right" color="#19ba8d" border="1px solid #19ba8d" padding="19px 28px" background-color="#ffffff" border-radius="150px" href="#">Подробнее</mj-button>
+        <mj-button align="right" padding="0 15px" color="#19ba8d" border="1px solid #19ba8d" inner-padding="16px 25px" background-color="#ffffff" border-radius="150px" href="#">Подробнее</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image width="600px" src="https://abestuzhev.github.io/leeft-email/img-email-1/email-img-1.jpg"></mj-image>
+        <mj-image width="600px" padding="10px 15px" src="https://abestuzhev.github.io/leeft-email/img-email-1/email-img-1.jpg"></mj-image>
       </mj-column>
     </mj-section>
     
-    <mj-section>
+    <mj-section padding="10px 0">
       <mj-column>
-        <mj-image width="600px" src="https://abestuzhev.github.io/leeft-email/img-email-1/email-seot-1.jpg"></mj-image>
+        <mj-image width="600px" href="https://www.google.com/" src="https://abestuzhev.github.io/leeft-email/img-email-1/email-support-1.jpg"></mj-image>
         <mj-text font-size="15px" align="left" color="#29373c" font-family="arial" line-height="19px">
-        Техническая поддержка. Сайт это живой организм, его нужно наполнять, улучшать, или, как говорят некоторые наши Клиенты, "прокачивать", чтобы он всегда оставался не просто современным, но и отвечал запросам поисковых машин. 
+          <span style="font-size:16px; text-transform:uppercase; font-weight:700;">Техническая поддержка.</span> Сайт это живой организм, его нужно наполнять, улучшать, или, как говорят некоторые наши Клиенты, "прокачивать", чтобы он всегда оставался не просто современным, но и отвечал запросам поисковых машин. 
 В техническую поддержку сайта входит: наполение актуальной информацией, изменение внешнего вида сайта, доработка функционала.
 В нашем штате есть дизайнеры, верстальщики, программисты. Для удобства наших Клиентов у нас есть несколько форм сотрудничества: абонентская плата, пофактовая оплата или работа по рассчитанным ТЗ. Хочу на техподдержку
         </mj-text>
@@ -43,22 +43,58 @@
     
     <mj-section>
       <mj-column>
-        <mj-image width="600px" src="https://abestuzhev.github.io/leeft-email/img-email-1/email-img-2.jpg"></mj-image>
+        <mj-image width="600px" padding="10px 15px" src="https://abestuzhev.github.io/leeft-email/img-email-1/email-img-2.jpg"></mj-image>
       </mj-column>
       <mj-column>
-        <mj-text color="#29373c" align="left" font-size="16px" font-family="arial" text-transform="uppercase" font-weight="700">Аудит</mj-text>
-        <mj-text font-size="15px" align="left" color="#29373c" font-family="arial" line-height="19px">
-        Мы можем провести аудит сайта и составить отчет об ошибках, необходимых и желательных доработках, сделать расчет и внедрить все рекомендации согласно аудиту. 
+        <mj-text font-size="15px" padding="10px 15px" align="left" color="#29373c" font-family="arial" line-height="19px">
+        
+          <span style="font-size:16px; text-transform:uppercase; font-weight:700;">Аудит.</span> Мы можем провести аудит сайта и составить отчет об ошибках, необходимых и желательных доработках, сделать расчет и внедрить все рекомендации согласно аудиту. 
 Стоимость аудита 2500 руб.
         </mj-text>
-        <mj-button align="left" color="#19ba8d" border="1px solid #19ba8d" padding="19px 28px" background-color="#ffffff" border-radius="150px" href="#">Подробнее</mj-button>
+        <mj-button align="left" padding="10px 15px" color="#19ba8d" border="1px solid #19ba8d" inner-padding="16px 25px" background-color="#ffffff" border-radius="150px" href="#">Подробнее</mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="10px 0">
+      <mj-column>
+        <mj-image width="600px" padding="10px 15px" href="https://www.google.com/" src="https://abestuzhev.github.io/leeft-email/img-email-1/email-seot-1.jpg"></mj-image>
+        <mj-text font-size="15px" padding="10px 15px" align="left" color="#29373c" font-family="arial" line-height="19px">
+        <span style="font-size:16px; text-transform:uppercase; font-weight:700;">SEO-оптимизация -</span>  простым языком - вывод сайта в ТОП10 в поисковиках. В последнее время поисковики все больше усложняют алгоритмы работы поисковых машин, поэтому уже не достаточно просто писать оптимизированные тексты и закупать ссылки. Необходимо работать как с внешней, так и с внутренней оптимизацией. Так мы и делаем - при старте работ анализируем ситуацию на рынке, регион продвижения, подбираем запросы и вырабатываем стратегию. Стоимость работ рассчитывается под каждый проект индивидуально.
+Хочу SEO - оптимизацию
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="10px 0">
+      <mj-column>
+        <mj-text font-size="15px"  padding="10px 15px" align="left" color="#29373c" font-family="arial" line-height="25px">
+          <span style="font-size:16px; text-transform:uppercase; font-weight:700;">Контекстная реклама 
+в Яндекс Директ и Google Adwords.</span></mj-text>
+        <mj-text font-size="15px" align="left" padding="10px 15px" color="#29373c" font-family="arial" line-height="25px">
+          В начале работ мы проводим тестовую рекламную кампанию небольшими бюджетами, чтобы найти наиболее работающие связки текстов и креативов, 
+после этого проводим анализ рекламной кампании и масштабируем. 
+        </mj-text>
+        <mj-text font-size="15px" align="left" padding="10px 15px" color="#29373c" font-family="arial" line-height="25px">
+          Работы включают в себя: подбор семантического ядра (ключевых запросов), создание объявлений (тексты и креативы), настройка и запуск рекламной кампании.  
+        </mj-text>
+        
+      </mj-column>
+      
+      <mj-column padding="10px 15px">
+        <mj-image width="600px"  padding="10px 15px" href="https://leeft.ru/" src="https://abestuzhev.github.io/leeft-email/img-email-1/email-img-3.jpg"></mj-image>
+        <mj-text font-size="15px" padding="10px 15px" align="left" color="#29373c" font-family="arial" line-height="19px">
+          <span style="padding:6px 0; border-bottom:1px solid #d6d6d6; line-height:16px; display:inline-block;">Ежемесячно предоставляются отчеты.</span>
+          <span style="padding:6px 0; border-bottom:1px solid #d6d6d6; line-height:16px; display:inline-block;">Настройка одного канала стоит 13 000 руб.</span>
+          <span style="padding:6px 0; border-bottom:1px solid #d6d6d6; line-height:16px; display:inline-block;">Бюджет на рекламу рассчитывается инидивидуально.</span>
+        </mj-text>
+        <mj-button align="left" color="#19ba8d" padding="6px 15px" inner-padding="16px 25px" border="1px solid #19ba8d" background-color="#ffffff" border-radius="150px" href="#">Подробнее</mj-button>
       </mj-column>
     </mj-section>
     
     
-    <mj-section>
+    <mj-section padding="10px 0">
       <mj-column>
-        <mj-image width="600px" src="https://abestuzhev.github.io/leeft-email/img-email-1/footer-email-1.jpg"></mj-image>
+        <mj-image width="600px" href="https://leeft.ru/" src="https://abestuzhev.github.io/leeft-email/img-email-1/footer-email-1.jpg"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
