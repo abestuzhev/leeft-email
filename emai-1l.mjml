@@ -1,18 +1,22 @@
 <mjml>
   <mj-body>
-    <mj-section margin-bottom="20px">
+    <mj-section >
       <mj-column>
 
-        <mj-image width="600px" src="https://abestuzhev.github.io/leeft-email/img-email-1/header-email-1.jpg"></mj-image>
+        <mj-image width="600px" padding-bottom="30px" src="https://abestuzhev.github.io/leeft-email/img-email-1/header-email-1.jpg"></mj-image>
 
-       <mj-divider border-width="1px" border-style="solid" border-color="#d2d2d2" />
+       
+        <mj-text color="#29373c" font-size="14px" padding="0" align="center" font-family="arial" text-transform="uppercase" font-weight="700">В сегодняшнем нашем письме мы хотим рассказать вам,</mj-text>
         <mj-text color="#29373c" font-size="32px" font-family="arial" text-transform="uppercase" font-weight="700">Какие услуги мы оказываем</mj-text>
-
+				
+        <mj-divider border-width="1px" border-style="solid" border-color="#d2d2d2" />
+        
         <mj-text font-size="15px" color="#29373c" font-family="arial" line-height="19px">
         Техническая поддержка. Сайт это живой организм, его нужно наполнять, улучшать, или, как говорят некоторые наши Клиенты, "прокачивать", чтобы он всегда оставался не просто современным, но и отвечал запросам поисковых машин. 
 В техническую поддержку сайта входит: наполение актуальной информацией, изменение внешнего вида сайта, доработка функционала.
 В нашем штате есть дизайнеры, верстальщики, программисты. Для удобства наших Клиентов у нас есть несколько форм сотрудничества: абонентская плата, пофактовая оплата или работа по рассчитанным ТЗ. 
         </mj-text>
+        
 
       </mj-column>
     </mj-section>
@@ -46,13 +50,23 @@
         <mj-image width="600px" padding="10px 15px" src="https://abestuzhev.github.io/leeft-email/img-email-1/email-img-2.jpg"></mj-image>
       </mj-column>
       <mj-column>
-        <mj-text font-size="15px" padding="10px 15px" align="left" color="#29373c" font-family="arial" line-height="19px">
-        
+        <mj-text font-size="15px" padding="10px 15px" align="left" color="#29373c" font-family="arial" line-height="19px">        
           <span style="font-size:16px; text-transform:uppercase; font-weight:700;">Аудит.</span> Мы можем провести аудит сайта и составить отчет об ошибках, необходимых и желательных доработках, сделать расчет и внедрить все рекомендации согласно аудиту. 
 Стоимость аудита 2500 руб.
         </mj-text>
         <mj-button align="left" padding="10px 15px" color="#19ba8d" border="1px solid #19ba8d" inner-padding="16px 25px" background-color="#ffffff" border-radius="150px" href="#">Подробнее</mj-button>
       </mj-column>
+    </mj-section>
+      
+      <mj-section>
+      <mj-column>
+        <mj-text font-size="15px" padding="0 15px" align="center" color="#29373c" font-family="arial" line-height="23px">        
+          <span style="font-size:16px; border-top: 1px solid #000; border-bottom: 1px solid #000; text-transform:uppercase; padding:18px 60px; display:inline-block; font-weight:700;">
+          Конечно же любая площадка в Интернете
+требует продвижения и с этим мы тоже
+отлично справляемся.
+          </span> 
+        </mj-text>
     </mj-section>
     
     <mj-section padding="10px 0">

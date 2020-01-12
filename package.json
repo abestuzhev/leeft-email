@@ -1,0 +1,22 @@
+{
+  "name": "leeft-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abestuzhev/leeft-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abestuzhev/leeft-email/issues"
+  },
+  "homepage": "https://github.com/abestuzhev/leeft-email#readme",
+  "dependencies": {
+    "mjml": "^4.5.1"
+  }
+}
